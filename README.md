@@ -1,6 +1,6 @@
 # Hey, I'm Omar 👋
 
-Business Central AL Developer & Full-Stack Web Developer based in East Africa.
+Software Engineer and Full Stack Developer
 
 I build BC extensions that solve real business problems, and full-stack web apps that power real products.
 
@@ -21,6 +21,7 @@ I build BC extensions that solve real business problems, and full-stack web apps
 ![React Native/Expo](https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=expo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-blue?style=flat-square)
 
 ## Featured Projects
 
@@ -37,9 +38,9 @@ I build BC extensions that solve real business problems, and full-stack web apps
 
 - 📚 Learning Go for backend development
 - 🔨 Building BC customizations & API integrations
-- 💼 Open to freelance work — [Upwork](https://www.upwork.com/freelancers/~01b40836ebbb4c2174)
+- 💼 Open to freelance work —
 
 ## Links
 
 - 🌐 [ileys.com](https://ileys.com)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~01b40836ebbb4c2174)
+
