@@ -35,6 +35,7 @@ I build BC extensions that solve real business problems, and full-stack web apps
 |---|---|---|
 | **BC SMS Extension** | Auto-sends SMS to customers on transaction posting. Multi-provider, retry logic, message log. | AL, REST API |
 | **BC Shareholder Extension** | Custom shareholder management module with dedicated card, number series, and dimension integration. | AL, Business Central |
+| **BC Whatsapp Utility Extension** | Utility Functions to help develop extensions that utilize Whatsapp Cloud API | AL, REST API |
 | **ISP Data Marketplace** | Backend + admin dashboard for a cross-ISP mobile data platform in Somalia. Custom auth for web and mobile clients. | Next.js, Flutter, Supabase |
 | **Rune Svelte Template** | Contributed Svelte framework support to the Rune SDK for HTML5 multiplayer games. | Svelte, TypeScript |
 
@@ -42,7 +43,7 @@ I build BC extensions that solve real business problems, and full-stack web apps
 
 ## Currently
 
-- 📚 Learning Go for backend development
+- 📚 Preparing for the MB-800 Cert
 - 🔨 Building BC customizations & API integrations
 - 💼 Open to freelance work —
 
