@@ -13,7 +13,13 @@ I build BC extensions that solve real business problems, and full-stack web apps
 
 ## Tech Stack
 
-![AL](https://img.shields.io/badge/AL-Business%20Central-blue?style=flat-square)
+## Tech Stack
+
+### Enterprise Resource Planning (ERP)
+![AL](https://img.shields.io/badge/AL-Business%20Central-blue?style=flat-square) 
+*(7+ Years experience in Finance, Sales, Purchasing, HR, Fixed Assets, and Custom Extensions)*
+
+### Full-Stack & Integration
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
