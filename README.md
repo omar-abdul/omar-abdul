@@ -43,7 +43,6 @@ I build BC extensions that solve real business problems, and full-stack web apps
 
 ## Currently
 
-- 📚 Preparing for the MB-800 Cert
 - 🔨 Building BC customizations & API integrations
 - 💼 Open to freelance work —
 
