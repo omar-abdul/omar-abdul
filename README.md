@@ -41,12 +41,12 @@ I build BC extensions that solve real business problems, and full-stack web apps
 
 > Most of my professional work lives in private repositories and Business Central environments. The projects above represent a fraction of what I build day to day.
 
-## Currently
+### 🔗 Available for Subcontract Work
 
-- 🔨 Building BC customizations & API integrations
-- 💼 Open to freelance work —
+I partner with Microsoft Dynamics consultancies who need senior AL capacity.
+8+ years across Finance, Sales, Purchasing, HR, Fixed Assets.
 
-## Links
+**Reach me:** [https://www.linkedin.com/in/omarsdengineer/] | [ilbuuromar@gmail.com]
 
-- 🌐 [ileys.com](https://ileys.com)
+
 
